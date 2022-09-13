@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fruits Basket</string>
+    <string name="a_fruit_image">a fruit image</string>
+    <string name="welcome_to_fruit_basket">Welcome to Fruit Basket</string>
+</resources>
